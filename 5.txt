@@ -1,0 +1,6 @@
+1.Visit the website
+2.Inspect the website HTML that you want to crawl
+3.Access URL of the website using code and download all the HTML contents on the page
+4.Format the downloaded content into a readable format
+5.Extract out useful information and save it into a structured format
+6.Save the required images
