@@ -4,3 +4,4 @@
 4.Format the downloaded content into a readable format
 5.Extract out useful information and save it into a structured format
 6.Save the required images
+7. Save the text.
